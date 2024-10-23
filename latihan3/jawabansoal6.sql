@@ -1,0 +1,23 @@
+INSERT INTO mahasiswa (nama)
+VALUES ('oila'),
+       ('lala'),
+       ('lulu'),
+	   ('lalam'),
+	   ('lolom'),
+	   ('kulu'),
+	   ('oi'),
+       ('la'),
+       ('lu'),
+	   ('lam'),
+	   ('lom')
+	   ('gugun'),
+       ('gaga'),
+       ('gogo'),
+	   ('lalam'),
+	   ('lolom'),
+	   ('kulu'),
+	   ('oi'),
+       ('la'),
+       ('lu'),
+	   ('lam'),
+	   ('lom');
